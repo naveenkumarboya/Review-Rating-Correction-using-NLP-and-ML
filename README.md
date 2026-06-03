@@ -48,7 +48,7 @@ This project focuses on **sales forecasting** using **review data** and **metada
 ---
 
 ## Contributors 🤝
-- **Your Name**
+- **B. Naveen Kumar**
 
 ---
 
